@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.yinghai.realtidemo",
+    "sha256_cert_fingerprints":
+    ["09:39:3F:B1:39:79:80:9E:5F:E1:46:A9:0C:23:4B:F7:29:06:01:18:2B:43:E3:32:96:98:9A:1E:90:CA:F0:6B"]
+  }
+}]
